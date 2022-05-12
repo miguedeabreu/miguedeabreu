@@ -13,7 +13,7 @@ Ingeniero Industrial en <a href="https://usm.edu.ve/">Universidad Santa Maria</a
 const migue = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Node, Angular, React],
-  interests: ["front-end", "design system pattern", "back-end"],
+  interests: ["front-end", "user friendly design", "back-end"],
   now: "I'm studying React.",
   soon: "I'm going to do a design ux/ui bootcamp."
 }
