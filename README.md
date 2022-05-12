@@ -3,7 +3,7 @@
 <p><em>Desarrollador Full Stack en <a href="https://www.codenotch.com/">Codenotch</a></br>
 Ingeniero Industrial en <a href="https://usm.edu.ve/">Universidad Santa Maria</a></p>
 
-[![Linkedin: miguedeabreu](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/miguedeabreu/)
+[![Linkedin: miguedeabreu](https://img.shields.io/badge/-miguedeabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguedeabreu/)](https://www.linkedin.com/in/miguedeabreu/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
